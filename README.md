@@ -31,12 +31,12 @@ Production Link: https://mobile-landing-page-animation.vercel.app
    ```bash
    cd <project-directory>
 
-2. Install Dependencies 
+3. Install Dependencies 
 
    ```bash
    npm install
    
-3. Install Dependencies 
+4.. Run Server
 
    ```bash
    npm run dev
