@@ -3,8 +3,6 @@ import Image from 'next/image';
 
 const AnimatedSVGsTab1 = () => {
 
-  //#region  states
-
   const svgVariants = {
     initial: {
       opacity: 0,
@@ -19,9 +17,7 @@ const AnimatedSVGsTab1 = () => {
       },
     },
   };
-
-  //#endregion
-
+  
   return (
     <>
       <motion.div
