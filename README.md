@@ -4,7 +4,7 @@
 
 This project is an animated, responsive landing page implemented using Next.js and Framer Motion. The design emphasizes a seamless user experience across all devices and includes cross-browser support to ensure compatibility across various platforms. The project aims to closely follow the functionality and design outlined in the provided Figma file.
 
-Production Link: https://mobile-landing-page-animation-kp3qyczps-b-b-s-projects.vercel.app
+Production Link: https://mobile-landing-page-animation.vercel.app
 
 ## Features
 
