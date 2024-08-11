@@ -36,7 +36,7 @@ Production Link: https://mobile-landing-page-animation.vercel.app
    ```bash
    npm install
    
-4.. Run Server
+4. Run Server
 
    ```bash
    npm run dev
