@@ -24,7 +24,7 @@ Production Link: https://mobile-landing-page-animation.vercel.app
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/burcubeliktay/page-animations
+   git clone https://github.com/burcubeliktay/mobile-landing-page-animations.git
 
 2. Navigate to the Project Directory
 
